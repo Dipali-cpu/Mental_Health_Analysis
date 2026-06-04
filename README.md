@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Deployed-yellow)](https://huggingface.co/)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Deployed-yellow)]((https://huggingface.co/))
 [![Dataset](https://img.shields.io/badge/Dataset-OSMI%202014-green)](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
 
 A complete end-to-end Data Science project analysing mental health patterns
@@ -13,7 +13,7 @@ and machine learning — with a live interactive Streamlit app.
 
 ## 🔗 Live Demo
 
-👉 **[Try the App on Hugging Face](#)**  ← *(add your HF link here after deployment)*
+👉 **[Try the App on Hugging Face](#)**  ← *(https://huggingface.co/spaces/Dipali16/Mental-Health-Analysis)*
 
 ---
 
