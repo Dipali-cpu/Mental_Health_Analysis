@@ -4,4 +4,6 @@ scikit-learn
 matplotlib
 seaborn
 joblib
-numpy
+numpygit remote add origin https://github.com/YourUsername/mental-health-analysis.git
+git branch -M main
+git push -u origin main
